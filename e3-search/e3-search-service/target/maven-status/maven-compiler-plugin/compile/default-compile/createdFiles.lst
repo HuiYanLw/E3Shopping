@@ -1,0 +1,5 @@
+cn\e3mall\search\service\ActiveMq\ItemChangeListener.class
+cn\e3mall\search\service\impl\SearchItemServiceImpl.class
+cn\e3mall\search\service\dao\SearchDao.class
+cn\e3mall\search\service\mapper\TbSearchItemMapper.class
+cn\e3mall\search\service\impl\SearchServiceImpl.class
